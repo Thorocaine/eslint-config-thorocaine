@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-thorocaine",
+  "version": "1.0.0",
+  "description": "My eslint rules to easily add to other projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorocaine/eslint-thorocaine.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Jonathan Peel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Thorocaine/eslint-thorocaine/issues"
+  },
+  "homepage": "https://github.com/Thorocaine/eslint-thorocaine#readme",
+  "dependencies": {
+    "eslint": ">= 6",
+    "eslint-plugin-jsx-a11y": ">= 6",
+    "eslint-plugin-prettier": ">= 3",
+    "prettier": ">= 1.13",
+    "typescript": ">= 3"
+  }
+}
