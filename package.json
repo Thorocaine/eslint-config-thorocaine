@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-thorocaine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My eslint rules to easily add to other projects",
   "main": "index.js",
   "scripts": {},
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Thorocaine/eslint-thorocaine#readme",
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 2",
+    "@typescript-eslint/parser": ">= 2",
     "eslint": ">= 6",
     "eslint-plugin-jsx-a11y": ">= 6",
     "eslint-plugin-prettier": ">= 3",
