@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-thorocaine",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "My eslint rules to easily add to other projects",
   "main": "index.js",
   "scripts": {},
